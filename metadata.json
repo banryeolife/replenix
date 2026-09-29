@@ -1,0 +1,6 @@
+{
+  "name": "Replenix - 스마트 발주 수량 계산기",
+  "description": "남는 재고는 줄이고 품절은 방지하는 이커머스 스마트 발주 및 운전자본 최적화 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
